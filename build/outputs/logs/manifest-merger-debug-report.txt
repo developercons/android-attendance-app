@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f1c1631ebe31313d94e7b7040a50b803\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8489b47e564d460a743d43c0b0c8ad45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\523b5d4073475740348be09445ff3ca1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\45f8544ef5c2be7ab0aeeb3f8168707e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ce193676d1581312f6aaea76075fe49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\56066227bd31b570a6f520cb9916b34e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d03d3d3579f6486d74520ed777afe0a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3db3b7271c0a51d55a16c6fcae2f41a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\029d2f3e9684492d560fb1f6c8073269\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\605ec07ad62ae96133ef77fc25e07d7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4bf0a22df3e59a314c31ceea31eba931\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bde6d7aac4c47dfae6193c7c3cbe6a79\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2dde165852dd4333a401dc173635ed12\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4aeb0e07fc2f96d9ced906777eb70308\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53fcba990afe9ab7c4d81ca6ff250ec3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\785ad6dd2fbf1245b248645a8294264e\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+		INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:5:5-54:19
+	android:supportsRtl
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:10:9-40
+activity#development.assistant.project.s_assistant.AppBase
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:11:19-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:15:27-74
+activity#development.assistant.project.s_assistant.profile_activity
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:18:9-20:53
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:20:13-50
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:19:13-45
+activity#development.assistant.project.s_assistant.Student_Registartion
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:21:9-23:62
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:23:13-59
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:22:13-49
+activity#development.assistant.project.s_assistant.noteCreate
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:24:9-26:58
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:26:13-55
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:25:13-39
+activity#development.assistant.project.s_assistant.attendanceActivity
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:27:9-29:53
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:29:13-50
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:28:13-47
+activity#development.assistant.project.s_assistant.Result_activity
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:30:9-32:59
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:31:13-44
+activity#development.assistant.project.s_assistant.cgpa_activity
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:33:9-35:53
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:35:13-50
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:34:13-42
+activity#development.assistant.project.s_assistant.noteActivity
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:36:9-38:53
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:38:13-50
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:37:13-41
+activity#development.assistant.project.s_assistant.scheduler
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:39:9-41:53
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:41:13-50
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:40:13-38
+activity#development.assistant.project.s_assistant.make_schedule
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:42:9-44:55
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:43:13-42
+activity#development.assistant.project.s_assistant.SettingsActivity
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:45:9-48:53
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:48:13-50
+	android:label
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:47:13-60
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:46:13-45
+activity#development.assistant.project.s_assistant.About
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:49:9-51:53
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:51:13-50
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:50:13-34
+activity#development.assistant.project.s_assistant.Edit_Student
+ADDED from D:\Attendance App\src\main\AndroidManifest.xml:52:9-53:52
+	android:parentActivityName
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:53:13-50
+	android:name
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml:52:19-47
+uses-sdk
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f1c1631ebe31313d94e7b7040a50b803\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f1c1631ebe31313d94e7b7040a50b803\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8489b47e564d460a743d43c0b0c8ad45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8489b47e564d460a743d43c0b0c8ad45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\523b5d4073475740348be09445ff3ca1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\523b5d4073475740348be09445ff3ca1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\45f8544ef5c2be7ab0aeeb3f8168707e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\45f8544ef5c2be7ab0aeeb3f8168707e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ce193676d1581312f6aaea76075fe49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ce193676d1581312f6aaea76075fe49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\56066227bd31b570a6f520cb9916b34e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\56066227bd31b570a6f520cb9916b34e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d03d3d3579f6486d74520ed777afe0a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d03d3d3579f6486d74520ed777afe0a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3db3b7271c0a51d55a16c6fcae2f41a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3db3b7271c0a51d55a16c6fcae2f41a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\029d2f3e9684492d560fb1f6c8073269\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\029d2f3e9684492d560fb1f6c8073269\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\605ec07ad62ae96133ef77fc25e07d7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\605ec07ad62ae96133ef77fc25e07d7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4bf0a22df3e59a314c31ceea31eba931\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4bf0a22df3e59a314c31ceea31eba931\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bde6d7aac4c47dfae6193c7c3cbe6a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bde6d7aac4c47dfae6193c7c3cbe6a79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2dde165852dd4333a401dc173635ed12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2dde165852dd4333a401dc173635ed12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4aeb0e07fc2f96d9ced906777eb70308\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4aeb0e07fc2f96d9ced906777eb70308\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53fcba990afe9ab7c4d81ca6ff250ec3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53fcba990afe9ab7c4d81ca6ff250ec3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\785ad6dd2fbf1245b248645a8294264e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dylan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\785ad6dd2fbf1245b248645a8294264e\AndroidManifest.xml:20:5-44
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml
+		INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
+		ADDED from D:\Attendance App\src\main\AndroidManifest.xml
+		INJECTED from D:\Attendance App\src\main\AndroidManifest.xml
